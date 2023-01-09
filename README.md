@@ -14,4 +14,4 @@ https://colab.research.google.com/drive/1WYXHabKHkJx5474NZyQghbErzWjW_8rw?usp=sh
 https://colab.research.google.com/drive/1-JkQb4CS2iUVsz-dAD7XQ1CkxiiuY9W3
 
 Enlace para obtener los archivos necesarios para ejecutar el código del Colab:
-* https://drive.google.com/file/d/1cXShsAOOzrkpVPMk2x089vwwQzwtQXfG/view?usp=share_link
+* https://drive.google.com/file/d/1SF8KwX5qIMNLr7NWue0cIJkVdwl7jjmO/view?usp=sharing
